@@ -20,8 +20,8 @@
     "DownSetTime": 50
   },
   "linkNo": 6,
-  "InvertNum": 10,
-  "Capacity_VA": 400,
+  "InvertNum": 12,
+  "Capacity_VA": 1173,
   "GirdPointDataItem": [
     {
       "Name": "并网点电压",
@@ -44,7 +44,7 @@
     {
       "No": 0,
       "Name": "逆变器1",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -88,7 +88,7 @@
     {
       "No": 1,
       "Name": "逆变器2",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -132,7 +132,7 @@
     {
       "No": 2,
       "Name": "逆变器3",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -176,7 +176,7 @@
     {
       "No": 3,
       "Name": "逆变器4",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -220,7 +220,7 @@
     {
       "No": 4,
       "Name": "逆变器5",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -264,7 +264,7 @@
     {
       "No": 5,
       "Name": "逆变器6",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -308,7 +308,7 @@
     {
       "No": 6,
       "Name": "逆变器7",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -352,7 +352,7 @@
     {
       "No": 7,
       "Name": "逆变器8",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
@@ -396,12 +396,12 @@
     {
       "No": 8,
       "Name": "逆变器9",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
       "CallBackNo": 3,
-      "CallBackAddr": 32832,
+      "CallBackAddr": 32834,
       "AVCCallBackNo": 0,
       "AVCCallBackAddr": 0,
       "ComStatue": [
@@ -440,12 +440,12 @@
     {
       "No": 9,
       "Name": "逆变器10",
-      "Capacity_VA": 40,
+      "Capacity_VA": 110,
       "P_RtdbNo": 0,
       "Q_RtdbNo": 0,
       "Cos_RtdbNo": 0,
       "CallBackNo": 3,
-      "CallBackAddr": 32836,
+      "CallBackAddr": 32838,
       "AVCCallBackNo": 0,
       "AVCCallBackAddr": 0,
       "ComStatue": [
@@ -478,6 +478,94 @@
           "RegNo": 3,
           "type": 1,
           "Name": "逆变器10的无功出力比率"
+        }
+      ]
+    },
+    {
+      "No": 10,
+      "Name": "逆变器11",
+      "Capacity_VA": 40,
+      "P_RtdbNo": 0,
+      "Q_RtdbNo": 0,
+      "Cos_RtdbNo": 0,
+      "CallBackNo": 3,
+      "CallBackAddr": 32842,
+      "AVCCallBackNo": 0,
+      "AVCCallBackAddr": 0,
+      "ComStatue": [
+        {
+          "devNo": 11,
+          "RegNo": 0,
+          "type": 0,
+          "Name": "逆变器11通讯状态"
+        }
+      ],
+      "InverCapacityOutVal": [
+        {
+          "devNo": 11,
+          "RegNo": 1,
+          "type": 1,
+          "Name": "逆变器11容量调节值"
+        }
+      ],
+      "InverPOutVal": [
+        {
+          "devNo": 11,
+          "RegNo": 2,
+          "type": 1,
+          "Name": "逆变器11的有功出力比率"
+        }
+      ],
+      "InverCosOutVal": [
+        {
+          "devNo": 11,
+          "RegNo": 3,
+          "type": 1,
+          "Name": "逆变器11的无功出力比率"
+        }
+      ]
+    },
+    {
+      "No": 11,
+      "Name": "逆变器12",
+      "Capacity_VA": 33,
+      "P_RtdbNo": 0,
+      "Q_RtdbNo": 0,
+      "Cos_RtdbNo": 0,
+      "CallBackNo": 3,
+      "CallBackAddr": 32846,
+      "AVCCallBackNo": 0,
+      "AVCCallBackAddr": 0,
+      "ComStatue": [
+        {
+          "devNo": 12,
+          "RegNo": 0,
+          "type": 0,
+          "Name": "逆变器12通讯状态"
+        }
+      ],
+      "InverCapacityOutVal": [
+        {
+          "devNo": 12,
+          "RegNo": 1,
+          "type": 1,
+          "Name": "逆变器12容量调节值"
+        }
+      ],
+      "InverPOutVal": [
+        {
+          "devNo": 12,
+          "RegNo": 2,
+          "type": 1,
+          "Name": "逆变器12的有功出力比率"
+        }
+      ],
+      "InverCosOutVal": [
+        {
+          "devNo": 12,
+          "RegNo": 3,
+          "type": 1,
+          "Name": "逆变器12的无功出力比率"
         }
       ]
     }

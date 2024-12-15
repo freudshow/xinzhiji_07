@@ -375,6 +375,70 @@
           "Unit": "float4字节",
           "Type": 38,
           "MapAddr": 1
+        },
+        {
+          "No": 43,
+          "Addr": 32842,
+          "Desc": "逆变器11-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 44,
+          "Addr": 32843,
+          "Desc": "逆变器11-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 45,
+          "Addr": 32844,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 46,
+          "Addr": 32845,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
+        },
+        {
+          "No": 47,
+          "Addr": 32846,
+          "Desc": "逆变器12-有功调节",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 3
+        },
+        {
+          "No": 48,
+          "Addr": 32847,
+          "Desc": "逆变器12-无功调节",
+          "Unit": "整形4字节",
+          "Type": 2,
+          "MapAddr": 18
+        },
+        {
+          "No": 49,
+          "Addr": 32848,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 50,
+          "Addr": 32849,
+          "Desc": "测试2",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 1
         }
       ],
       "Actionfixed_info": []
