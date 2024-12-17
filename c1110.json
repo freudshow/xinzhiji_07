@@ -1,6 +1,6 @@
 {
   "TcpModeEnable": 0,
-  "ClearData": 0,
+  "ClearData": 1,
   "SendFramePeriod": 500,
   "dataset": [
     {
