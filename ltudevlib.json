@@ -1,9 +1,9 @@
 {
   "YcLimiteEnable": 0,
-  "TotalYcCount": 974,
+  "TotalYcCount": 973,
   "TotalYxCount": 332,
   "TotalYkCount": 152,
-  "TotalDDCount": 76,
+  "TotalDDCount": 77,
   "TotalParameterCount": 0,
   "DataItemCount": 0,
   "realdatabaseclassRoot": [
@@ -12523,7 +12523,7 @@
       "DevModelName": null,
       "DevDescription": null,
       "DevPort": null,
-      "Name": "逆变器3-待机",
+      "Name": "逆变器5-待机",
       "Unit": null,
       "Ratio": 1.0,
       "DeadSet": 1.0,
@@ -32989,7 +32989,7 @@
       "linkNo": 11,
       "devNo": 1,
       "RegNo": 1,
-      "type": 1,
+      "type": 3,
       "DataModelName": "",
       "DevAddr": null,
       "DevModelName": null,
@@ -33004,7 +33004,7 @@
       "YcLowLimite": 0.5,
       "LessOrMore": 0,
       "GenerateVirtueYx": 0,
-      "GenerateModbusSlaveAddr": 45317,
+      "GenerateModbusSlaveAddr": 45319,
       "TypeProperty": 0
     },
     {
