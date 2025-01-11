@@ -34,7 +34,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-有功调节开启"
       },
@@ -70,7 +70,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器2-有功调节开启"
       },
@@ -106,7 +106,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器3-有功调节开启"
       },
@@ -142,7 +142,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器4-有功调节开启"
       },
@@ -178,7 +178,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器5-有功调节开启"
       },
@@ -214,7 +214,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器6-有功调节开启"
       },
@@ -250,7 +250,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器7-有功调节开启"
       },
@@ -286,7 +286,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器8-有功调节开启"
       },
@@ -322,7 +322,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器9-有功调节开启"
       },
@@ -358,7 +358,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器10-有功调节开启"
       },
@@ -394,7 +394,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器11-有功调节开启"
       },
@@ -430,7 +430,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/255/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器12-有功调节开启"
       },
@@ -556,7 +556,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-一级过压保护值允许"
       },
@@ -592,7 +592,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-一级过压保护时间允许"
       },
@@ -628,7 +628,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/1/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-二级过压保护值允许"
       },
@@ -664,7 +664,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/1/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-二级过压保护时间允许"
       },
@@ -700,7 +700,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/2/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-三级过压保护值允许"
       },
@@ -736,7 +736,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/2/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-三级过压保护时间允许"
       },
@@ -772,7 +772,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-一级欠压保护值允许"
       },
@@ -808,7 +808,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-一级欠压保护时间允许"
       },
@@ -844,7 +844,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/4/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-二级欠压保护值允许"
       },
@@ -880,7 +880,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/4/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-二级欠压保护时间允许"
       },
@@ -916,7 +916,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/5/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-三级欠压保护值允许"
       },
@@ -952,7 +952,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/5/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-三级欠压保护时间允许"
       },
@@ -988,7 +988,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-一级过频保护值允许"
       },
@@ -1024,7 +1024,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-一级过频保护时间允许"
       },
@@ -1060,7 +1060,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/1/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-二级过频保护值允许"
       },
@@ -1096,7 +1096,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/1/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-二级过频保护时间允许"
       },
@@ -1132,7 +1132,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/2/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-三级过频保护值允许"
       },
@@ -1168,7 +1168,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/2/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-三级过频保护时间允许"
       },
@@ -1204,7 +1204,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-一级欠频保护值允许"
       },
@@ -1240,7 +1240,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-一级欠频保护时间允许"
       },
@@ -1276,7 +1276,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/4/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-二级欠频保护值允许"
       },
@@ -1312,7 +1312,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/4/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-二级欠频保护时间允许"
       },
@@ -1348,7 +1348,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/5/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-三级欠频保护值允许"
       },
@@ -1384,7 +1384,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/5/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-三级欠频保护时间允许"
       },
@@ -1420,7 +1420,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI一级保护值允许"
       },
@@ -1456,7 +1456,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/0/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI一级保护时间允许"
       },
@@ -1492,7 +1492,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/1/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI二级保护值允许"
       },
@@ -1528,7 +1528,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/1/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI二级保护时间允许"
       },
@@ -1564,7 +1564,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/2/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI三级保护值允许"
       },
@@ -1600,7 +1600,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/2/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI三级保护时间允许"
       },
@@ -1636,7 +1636,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI R相测试值允许"
       },
@@ -1672,7 +1672,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI S相测试值允许"
       },
@@ -1708,7 +1708,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI T相测试值允许"
       },
@@ -1744,7 +1744,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI一级保护比例允许"
       },
@@ -1780,7 +1780,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI二级保护比例允许"
       },
@@ -1816,7 +1816,7 @@
         "para8": 0,
         "para9": 0,
         "para10": 0,
-        "defaultValue": "1/65535/20",
+        "defaultValue": "2/3/500/3/10000",
         "IOTValue": null,
         "desc": "逆变器1-DCI三级保护比例允许"
       },
