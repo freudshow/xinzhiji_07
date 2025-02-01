@@ -811,6 +811,240 @@
             }
           ],
           "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器1-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
         }
       ]
     },
@@ -1621,6 +1855,240 @@
               "Bit": 15
             }
           ],
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器2-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
           "MultiTypeList": null
         }
       ]
@@ -2433,6 +2901,240 @@
             }
           ],
           "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器3-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
         }
       ]
     },
@@ -3243,6 +3945,240 @@
               "Bit": 15
             }
           ],
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器4-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
           "MultiTypeList": null
         }
       ]
@@ -4055,6 +4991,240 @@
             }
           ],
           "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器5-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
         }
       ]
     },
@@ -4865,6 +6035,240 @@
               "Bit": 15
             }
           ],
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 6,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器6-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
           "MultiTypeList": null
         }
       ]
@@ -5677,6 +7081,240 @@
             }
           ],
           "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 7,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器7-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
         }
       ]
     },
@@ -6487,6 +8125,240 @@
               "Bit": 15
             }
           ],
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 8,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器8-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
           "MultiTypeList": null
         }
       ]
@@ -7299,6 +9171,240 @@
             }
           ],
           "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 9,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器9-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
         }
       ]
     },
@@ -8109,6 +10215,240 @@
               "Bit": 15
             }
           ],
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 10,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器10-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
           "MultiTypeList": null
         }
       ]
@@ -8921,6 +11261,240 @@
             }
           ],
           "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 11,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器11-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 11,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器11-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 11,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器11-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 11,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器11-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 11,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器11-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 11,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器11-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 11,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器11-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 11,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器11-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 11,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器11-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
         }
       ]
     },
@@ -9731,6 +12305,240 @@
               "Bit": 15
             }
           ],
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 89,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 12,
+          "ModbusRegAddr": 2112,
+          "GetRegCount": 1,
+          "AreaNum": 13,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2112,
+          "HighAddr": 2112,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器12-电压保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 90,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 12,
+          "ModbusRegAddr": 2176,
+          "GetRegCount": 1,
+          "AreaNum": 14,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2176,
+          "HighAddr": 2176,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器12-频率保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 91,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 12,
+          "ModbusRegAddr": 2240,
+          "GetRegCount": 1,
+          "AreaNum": 15,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2240,
+          "HighAddr": 2240,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器12-DCI保护开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 92,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 12,
+          "ModbusRegAddr": 2304,
+          "GetRegCount": 1,
+          "AreaNum": 16,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2304,
+          "HighAddr": 2304,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器12-远程开关机"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 93,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 12,
+          "ModbusRegAddr": 2368,
+          "GetRegCount": 1,
+          "AreaNum": 17,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2368,
+          "HighAddr": 2368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器12-降载开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 94,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 12,
+          "ModbusRegAddr": 2432,
+          "GetRegCount": 1,
+          "AreaNum": 18,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2432,
+          "HighAddr": 2432,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器12-无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 95,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 12,
+          "ModbusRegAddr": 2496,
+          "GetRegCount": 1,
+          "AreaNum": 19,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 2496,
+          "HighAddr": 2496,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器12-电压穿越开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 96,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 12,
+          "ModbusRegAddr": 4357,
+          "GetRegCount": 1,
+          "AreaNum": 20,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4357,
+          "HighAddr": 4357,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器12-有功无功调节开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 97,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 12,
+          "ModbusRegAddr": 4368,
+          "GetRegCount": 1,
+          "AreaNum": 21,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 4368,
+          "HighAddr": 4368,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器12-储能工作模式开关"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
           "MultiTypeList": null
         }
       ]
