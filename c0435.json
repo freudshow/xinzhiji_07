@@ -9,7 +9,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1092,
+          "RtdbNo": 872,
           "Desc": "设备[1]-逆变器1-运行状态",
           "Type": 1,
           "No": 0,
@@ -58,7 +58,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1189,
+          "RtdbNo": 969,
           "Desc": "设备[2]-逆变器2-运行状态",
           "Type": 1,
           "No": 0,
@@ -107,7 +107,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1286,
+          "RtdbNo": 1066,
           "Desc": "设备[3]-逆变器3-运行状态",
           "Type": 1,
           "No": 0,
@@ -156,7 +156,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1383,
+          "RtdbNo": 1163,
           "Desc": "设备[4]-逆变器4-运行状态",
           "Type": 1,
           "No": 0,
@@ -205,7 +205,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1480,
+          "RtdbNo": 1260,
           "Desc": "设备[5]-逆变器5-运行状态",
           "Type": 1,
           "No": 0,
@@ -254,7 +254,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1577,
+          "RtdbNo": 1357,
           "Desc": "设备[6]-逆变器6-运行状态",
           "Type": 1,
           "No": 0,
@@ -303,7 +303,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1674,
+          "RtdbNo": 1454,
           "Desc": "设备[7]-逆变器7-运行状态",
           "Type": 1,
           "No": 0,
@@ -352,7 +352,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1771,
+          "RtdbNo": 1551,
           "Desc": "设备[8]-逆变器8-运行状态",
           "Type": 1,
           "No": 0,
@@ -401,7 +401,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1868,
+          "RtdbNo": 1648,
           "Desc": "设备[9]-逆变器9-运行状态",
           "Type": 1,
           "No": 0,
@@ -450,7 +450,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 1965,
+          "RtdbNo": 1745,
           "Desc": "设备[10]-逆变器10-运行状态",
           "Type": 1,
           "No": 0,
@@ -499,7 +499,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 2062,
+          "RtdbNo": 1842,
           "Desc": "设备[11]-逆变器11-运行状态",
           "Type": 1,
           "No": 0,
@@ -548,7 +548,7 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 2159,
+          "RtdbNo": 1939,
           "Desc": "设备[12]-逆变器12-运行状态",
           "Type": 1,
           "No": 0,
