@@ -1,4 +1,6 @@
 {
+  "GprsMonitor": null,
+  "EnableDevStatueCheck": 1,
   "DataItem": [
     {
       "strNum": 111,
@@ -8,6 +10,68 @@
       "OverTime": 30,
       "mode": 2,
       "Reset": 1
+    },
+    {
+      "strNum": 0,
+      "PortType": 0,
+      "devNo": 0,
+      "RegNo": 0,
+      "OverTime": 0,
+      "mode": 0,
+      "Reset": 0
+    },
+    {
+      "strNum": 0,
+      "PortType": 0,
+      "devNo": 0,
+      "RegNo": 0,
+      "OverTime": 0,
+      "mode": 0,
+      "Reset": 0
+    },
+    {
+      "strNum": 0,
+      "PortType": 0,
+      "devNo": 0,
+      "RegNo": 0,
+      "OverTime": 0,
+      "mode": 0,
+      "Reset": 0
+    },
+    {
+      "strNum": 0,
+      "PortType": 0,
+      "devNo": 0,
+      "RegNo": 0,
+      "OverTime": 0,
+      "mode": 0,
+      "Reset": 0
+    }
+  ],
+  "DevStatusDataItem": [
+    {
+      "strNum": 3,
+      "PortType": 1,
+      "devNo": 1,
+      "RegNo": 0,
+      "Name": "1",
+      "Rtdb_start": 1,
+      "Rtdb_stop": 30,
+      "OffTime_s": 600,
+      "MonitorOption": 0,
+      "IsReverse": 0
+    },
+    {
+      "strNum": 3,
+      "PortType": 1,
+      "devNo": 1,
+      "RegNo": 1,
+      "Name": "2",
+      "Rtdb_start": 31,
+      "Rtdb_stop": 60,
+      "OffTime_s": 600,
+      "MonitorOption": 0,
+      "IsReverse": 0
     }
   ]
 }
